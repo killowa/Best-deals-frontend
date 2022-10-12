@@ -1,7 +1,7 @@
 ### Setup project:
 
-- cd to the project's directory
 - Install nodejs
+- cd to the project's directory
 - run npm i -g yarn
 - run yarn install
 - run yarn start
